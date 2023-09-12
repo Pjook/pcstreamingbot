@@ -26,8 +26,7 @@ Aᴅᴅ Tʜɪs Bᴏᴛ ɪɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Usᴇ Lɪᴋᴇ Yᴏ�
 </b>
 <b>Cᴏɴᴛᴀᴄᴛ ᴄʀᴇᴀᴛᴏʀ : @parshucr</b>
 """
-Developer -   <a href='https://t.me/parshucr'>Parshuram</a>"""
-
+Developer -   <a href="https://t.me/parshucr">Parshuram</a>😎 </b>"""
 
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
