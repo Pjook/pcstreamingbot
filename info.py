@@ -112,11 +112,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://git.heroku.com/mxplaybot.git
-".format(FQDN)
+    URL = "    URL = "mxplaybot-71ccdf4315be.herokuapp.com".format(FQDN)
 else:
-    URL = "https://git.heroku.com/mxplaybot.git
-".format(FQDN)
+    URL = "mxplaybot-71ccdf4315be.herokuapp.com".format(FQDN)
 
 
 
