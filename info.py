@@ -113,10 +113,10 @@ else:
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
     URL = "https://git.heroku.com/mxplaybot.git
-/".format(FQDN)
+".format(FQDN)
 else:
     URL = "https://git.heroku.com/mxplaybot.git
-/".format(FQDN)
+".format(FQDN)
 
 
 
