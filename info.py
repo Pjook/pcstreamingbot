@@ -112,9 +112,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "streambot123-dd2f85209375.herokuapp.com".format(FQDN)
+    URL = "https://mx-play-bot-clf3.onrender.com/".format(FQDN)
 else:
-    URL = "streambot123-dd2f85209375.herokuapp.com".format(FQDN)
+    URL = "https://mx-play-bot-clf3.onrender.com/".format(FQDN)
 
 
 
