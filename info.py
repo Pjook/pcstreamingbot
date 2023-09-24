@@ -112,9 +112,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "mxplay-cb20dc287d1a.herokuapp.com".format(FQDN)
+    URL = "https://{}/".format(FQDN)
 else:
-    URL = "mxplay-cb20dc287d1a.herokuapp.com".format(FQDN)
+    URL = "https://{}/".format(FQDN)
 
 
 
